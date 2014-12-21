@@ -75,9 +75,10 @@ and to Squad for this awesome game.
 
 #### Links
 
-https://kerbalstuff.com/mod/402/StockPlugins
-http://kerbal.curseforge.com/ksp-mods/226131-stockplugins
-https://github.com/malahx/StockPlugins
+- http://forum.kerbalspaceprogram.com/threads/99869
+- https://kerbalstuff.com/mod/402/StockPlugins
+- http://kerbal.curseforge.com/ksp-mods/226131-stockplugins
+- https://github.com/malahx/StockPlugins
 - ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219
 - Engineer / KerbalEngineer: http://forum.kerbalspaceprogram.com/threads/18230
 - KerbalGPS: http://forum.kerbalspaceprogram.com/threads/24646
