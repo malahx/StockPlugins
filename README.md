@@ -49,7 +49,7 @@ You need to delete the [mod]_Stock folder in your KSP/GameData folder.
 
 v1.01 - 2014.12.21
 - New: Added support of kOS,
-- Fix: Block the KerbalEngineer parts from the editor,
+- Fix: Blocked the KerbalEngineer parts from the editor,
 - Update ModuleManager to 2.5.4,
 - Update to 0.90
 
