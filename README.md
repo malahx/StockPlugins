@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 #### What is it?
 
 StockPlugins is several ModuleManager config files which adds the possibility to use a plugin without the additional parts.
-StockPlugins support KerbalEngineer, KerbalGPS, MechJeb, Protractor, kOS and Graphotron.
+StockPlugins support KerbalEngineer, KerbalGPS, MechJeb, Protractor, kOS, Graphotron and Telemachus.
 You don't need all these plugins for the use of StockPlugins.
 
 This config file requires ModuleManager v2.6.X.
@@ -16,18 +16,13 @@ This config file requires ModuleManager v2.6.X.
 All parts from these plugins can't be accessed on the editor. If you don't use them on your savegame, you can delete the parts folder.
 
 You can delete these folders:
-- KerbalEngineer:
-	* Kerbal Space Program/GameData/KerbalEngineer/Parts
-- KerbalGPS:
-	* Kerbal Space Program/GameData/KerbalGPS/Parts
-- MechJeb:
-	* Kerbal Space Program/GameData/MechJeb2/Parts
-- Protractor:
-	* Kerbal Space Program/GameData/Protractor/Parts
-- kOS:
-	* Kerbal Space Program/GameData/kOS/Parts
-- Graphotron:
-	* Kerbal Space Program/GameData/Kerbaltek/Graphotron/Parts
+* KerbalEngineer: Kerbal Space Program/GameData/KerbalEngineer/Parts
+* KerbalGPS: Kerbal Space Program/GameData/KerbalGPS/Parts
+* MechJeb: Kerbal Space Program/GameData/MechJeb2/Parts
+* Protractor: Kerbal Space Program/GameData/Protractor/Parts
+* kOS: Kerbal Space Program/GameData/kOS/Parts
+* Graphotron: Kerbal Space Program/GameData/Kerbaltek/Graphotron/Parts
+* Telemachus: Kerbal Space Program/GameData/Telemachus/Parts
 
 If you don't want to delete these folders, you can Prune them with AutoPruner.
 put StockPlugins.pnrl into the folder where AutoPruner is.
@@ -39,11 +34,19 @@ In stock, KerbalEngineer has in these options the possibility to don't used his 
 
 Unzip all files. Put the folder which in the GameData folder in your KSP/GameData folder.
 
+#### How to update it?
+
+Unzip all files. Merge the new [mod]_Stock folder with the old folder which is in your KSP/GameData folder
+
 #### How to uninstall it ?
 
 You need to delete the [mod]_Stock folder in your KSP/GameData folder.
 
 #### Changelog
+
+v1.03 - 2015.05.15
+* Fix: Readded support of Telemachus,
+* Fix: Tweak the MM syntax (which correct an error on the stock Graphotron, thanks Tivec).
 
 v1.02 - 2015.05.07
 * New: Added support of Graphotron,
