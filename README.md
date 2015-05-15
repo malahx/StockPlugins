@@ -77,6 +77,7 @@ All functions from the supported plugins will be set on the pods/probes.
 * to r4m0n, sarbian and all others who contributed to MechJeb,
 * to Addle and mrenigma03 for the mod Protractor,
 * to Rich for the mod Telemachus,
+* to erendrake fpr the mod kOS,
 * to Felger for the script AutoPruner,
 * to all other mods developers which make this game really huge,
 * and to Squad for this awesome game.
