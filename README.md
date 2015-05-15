@@ -1,6 +1,6 @@
 #### StockPlugins
 #### A plugin for Kerbal Space Program 1.0.2
-#### Copyright 2014 Malah
+#### Copyright 2015 Malah
 
 This is free and unencumbered software released into the public domain.
 
@@ -46,7 +46,7 @@ You need to delete the [mod]_Stock folder in your KSP/GameData folder.
 
 v1.03 - 2015.05.15
 * Fix: Readded support of Telemachus,
-* Fix: Tweak the MM syntax (which correct an error on the stock Graphotron, thanks Tivec).
+* Fix: Tweaked the MM syntax (which correct an error on the stock Graphotron, thanks Tivec).
 
 v1.02 - 2015.05.07
 * New: Added support of Graphotron,
