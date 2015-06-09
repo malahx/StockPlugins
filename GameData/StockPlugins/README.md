@@ -81,7 +81,6 @@ v1.00 - 2014.12.09
 
 For KerbalGPS, you need to rename all your satellite of your constellation with GPS in his name.
 All functions from Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protractor and Telemachus will be set on the pods/probes.
-The only blocked parts from ProceduralFairings are the Fairing Base and Fairing Base Ring, all other parts aren't blocked, but you can prune them if you want with the StockPlugins-ProceduralFairings-More.prnl
 
 #### Thanks!
 
