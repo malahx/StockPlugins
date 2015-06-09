@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 #### What is it?
 
 StockPlugins is several ModuleManager config files which adds the possibility to use a plugin without the additional parts.
-StockPlugins support DeadlyReentry, Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, ProceduralFairings, Protractor and Telemachus.
+StockPlugins support DeadlyReentry, Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protractor and Telemachus.
 You don't need all these plugins for the use of StockPlugins.
 
 This config file requires ModuleManager v2.6.X.
@@ -94,7 +94,6 @@ The only blocked parts from ProceduralFairings are the Fairing Base and Fairing 
 * to Rich for the mod Telemachus,
 * to erendrake for the mod kOS,
 * to Starwaster, ialdabaoth, r4m0n and NathanKell for the mod DeadlyReentry,
-* to e-dog for the mod Procedural Fairings,
 * to Felger for the script AutoPruner,
 * to all other mods developers which make this game really huge,
 * and to Squad for this awesome game.
@@ -114,6 +113,4 @@ The only blocked parts from ProceduralFairings are the Fairing Base and Fairing 
 * kOS: http://forum.kerbalspaceprogram.com/threads/68089
 * Graphtron: http://forum.kerbalspaceprogram.com/threads/119337
 * DeadlyReentry: http://forum.kerbalspaceprogram.com/threads/54954
-* Procedural Fairings: http://forum.kerbalspaceprogram.com/threads/39512
 * AutoPruner: http://forum.kerbalspaceprogram.com/threads/101309
-
