@@ -1,5 +1,5 @@
 #### StockPlugins
-#### A plugin for Kerbal Space Program 1.0.2
+#### A plugin for Kerbal Space Program 1.0.X
 #### Copyright 2015 Malah
 
 This is free and unencumbered software released into the public domain.
@@ -35,7 +35,7 @@ In stock, KerbalEngineer has in these options the possibility to don't used his 
 By default the DRE's parts are blocked, but there's an optional version which keeps the DRE's parts and blocks the Stock's parts, you just need to merge and overwrite the DeadlyReentry.cfg file which is in the Optional folder.
 If you keep the Stock HeatShields, the config file will add decoupler to them.
 
-#### How to install it ?
+#### How to install it?
 
 Unzip all files. Put the StockPlugins folder which in the GameData folder in your KSP/GameData folder.
 
@@ -43,11 +43,16 @@ Unzip all files. Put the StockPlugins folder which in the GameData folder in you
 
 Unzip all files. Merge the new StockPlugins folder with the old folder which is in your KSP/GameData folder
 
-#### How to uninstall it ?
+#### How to uninstall it?
 
 You need to delete the StockPlugins folder in your KSP/GameData folder.
 
 #### Changelog
+
+v1.11 - 2015.11.11
+* Fix: Corrected an error which can be seen with HyperEdit,
+* Update ModuleManager to 2.6.13,
+* Update to KSP 1.0.5
 
 v1.10 - 2015.06.09
 * New: Added support of DeadlyReentry,
@@ -66,7 +71,7 @@ v1.02 - 2015.05.07
 * New: Added support of Graphotron,
 * Fix: Deleted the support of Engineer v0.6 and Telemachus which aren't up to date,
 * Update ModuleManager to 2.6.3,
-* Update to KSP 1.02
+* Update to KSP 1.0.2
 
 v1.01 - 2014.12.21
 * New: Added support of kOS,
