@@ -1,22 +1,27 @@
 {
-	"NAME": "StockPlugins",
-	"URL": "https://raw.githubusercontent.com/malahx/StockPlugins/StockPlugins.version",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/malahx/StockPlugins/master/README.md", 
-	"DOWNLOAD": "https://kerbalstuff.com/mod/402/StockPlugins",
-	"VERSION":{"MAJOR":1,"MINOR":1,"PATCH":1,"BUILD":0},
+	"NAME"				: "StockPlugins",
+	"URL"				: "https://raw.githubusercontent.com/malahx/StockPlugins/StockPlugins.version",
+	"CHANGE_LOG_URL"	: "https://raw.githubusercontent.com/malahx/StockPlugins/master/README.md", 
+	"DOWNLOAD"			: "https://github.com/malahx/StockPlugins/releases",
+	"VERSION": {
+		"MAJOR"			: 1,
+		"MINOR"			: 2,
+		"PATCH"			: 0,
+		"BUILD"			: 0
+	},
     "KSP_VERSION": {
-        "MAJOR": 1,
-        "MINOR": 0,
-        "PATCH": 5
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 0
     },
     "KSP_VERSION_MIN": {
-        "MAJOR": 0,
-        "MINOR": 25,
-        "PATCH": 0
+        "MAJOR"			: 0,
+        "MINOR"			: 25,
+        "PATCH"			: 0
     },
     "KSP_VERSION_MAX": {
-        "MAJOR": 1,
-        "MINOR": 0,
-        "PATCH": -1
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 99
     }
 }

@@ -1,5 +1,5 @@
 #### StockPlugins
-#### A plugin for Kerbal Space Program 1.0.X
+#### A plugin for Kerbal Space Program
 #### Copyright 2015 Malah
 
 This is free and unencumbered software released into the public domain.
@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 #### What is it?
 
 StockPlugins is several ModuleManager config files which adds the possibility to use a plugin without the additional parts.
-StockPlugins support DeadlyReentry, Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protractor and Telemachus.
+StockPlugins support DeadlyReentry, Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protractor, RocketWatch and Telemachus.
 You don't need all these plugins for the use of StockPlugins.
 
 This config file requires ModuleManager v2.6.X.
@@ -25,6 +25,7 @@ You can delete/prune these folders:
 * Telemachus: Kerbal Space Program/GameData/Telemachus/Parts
 * DeadlyReentry if you want to delete the DRE Parts: Kerbal Space Program/GameData/DeadlyReentry/Parts
 * DeadlyReentry if you want to delete the Stock Parts : Squad/Parts/Aero/HeatShield
+* RocketWatch: Kerbal Space Program/GameData/RocketWatch/Parts
 
 If you don't want to delete these folders, you can Prune them with AutoPruner.
 put StockPlugins.pnrl into the folder where AutoPruner is.
@@ -48,6 +49,11 @@ Unzip all files. Merge the new StockPlugins folder with the old folder which is 
 You need to delete the StockPlugins folder in your KSP/GameData folder.
 
 #### Changelog
+
+v1.20 - 2016.04.22
+* New: Added support of RocketWatch,
+* Update ModuleManager to 2.6.22,
+* Update to KSP 1.1
 
 v1.11 - 2015.11.11
 * Fix: Corrected an error which can be seen with HyperEdit,
@@ -90,6 +96,7 @@ All functions from Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protract
 #### Thanks!
 
 * to sarbian for the mod ModuleManager,
+* to gkorgood for the mod RocketWatch,
 * to olex, DYJ, khyperia and Kerbaltek for the mod Graphotron,
 * to cybutek for the mod Engineer,
 * to PakledHostage for the mod Figaro Global Navigation Satellite System,
@@ -105,16 +112,17 @@ All functions from Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protract
 #### Links
 
 * http://forum.kerbalspaceprogram.com/threads/99869
-* https://kerbalstuff.com/mod/402/StockPlugins
+* http://spacedock.info/mod/112/StockPlugins
 * http://kerbal.curseforge.com/ksp-mods/226131-stockplugins
 * https://github.com/malahx/StockPlugins
 * ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219
 * Engineer / KerbalEngineer: http://forum.kerbalspaceprogram.com/threads/18230
 * KerbalGPS: http://forum.kerbalspaceprogram.com/threads/24646
-* MechJeb: http://forum.kerbalspaceprogram.com/threads/12384
+* MechJeb: http://forum.kerbalspaceprogram.com/index.php?/topic/111978-1
 * Protractor: http://forum.kerbalspaceprogram.com/threads/83173
 * Telemachus: http://forum.kerbalspaceprogram.com/threads/24594
 * kOS: http://forum.kerbalspaceprogram.com/threads/68089
 * Graphtron: http://forum.kerbalspaceprogram.com/threads/119337
 * DeadlyReentry: http://forum.kerbalspaceprogram.com/threads/54954
+* RocketWatch: http://forum.kerbalspaceprogram.com/threads/111882
 * AutoPruner: http://forum.kerbalspaceprogram.com/threads/101309

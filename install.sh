@@ -3,6 +3,6 @@ DIR=StockPlugins
 cp -f ${DIR}.version GameData/${DIR}/
 cp -f README.md GameData/${DIR}/
 cp -f COPYING GameData/${DIR}/
-rm -rf ~/.steam/steam/SteamApps/common/Kerbal\ Space\ Program/GameData/${DIR}
-cp -rf GameData ~/.steam/steam/SteamApps/common/Kerbal\ Space\ Program/
-cp -rf AutoPruner ~/.steam/steam/SteamApps/common/Kerbal\ Space\ Program/
+rm -f ../00KSP-dev/GameData/ModuleManager*.dll
+rm -rf ../00KSP-dev/GameData/${DIR}/
+cp -rf GameData/* ../00KSP-dev/GameData/
