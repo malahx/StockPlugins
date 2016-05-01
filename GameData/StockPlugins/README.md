@@ -52,7 +52,7 @@ You need to delete the StockPlugins folder in your KSP/GameData folder.
 
 v1.21 - 2016.05.01
 * Fix: Corrected an error with the Cherry Light part from kOS,
-* Fix: Deleted decoupler patch on heatshields;
+* Fix: Deleted decoupler patch on heatshields,
 * Fix: Updated DeadlyReentry patch,
 * Update ModuleManager to 2.6.24,
 * Update to KSP 1.1.2
