@@ -1,6 +1,6 @@
 #### StockPlugins
 #### A plugin for Kerbal Space Program
-#### Copyright 2015 Malah
+#### Copyright 2016 Malah
 
 This is free and unencumbered software released into the public domain.
 
@@ -49,6 +49,13 @@ Unzip all files. Merge the new StockPlugins folder with the old folder which is 
 You need to delete the StockPlugins folder in your KSP/GameData folder.
 
 #### Changelog
+
+v1.21 - 2016.05.01
+* Fix: Corrected an error with the Cherry Light part from kOS,
+* Fix: Deleted decoupler patch on heatshields,
+* Fix: Updated DeadlyReentry patch,
+* Update ModuleManager to 2.6.24,
+* Update to KSP 1.1.2
 
 v1.20 - 2016.04.22
 * New: Added support of RocketWatch,
