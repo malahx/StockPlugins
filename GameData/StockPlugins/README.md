@@ -1,6 +1,6 @@
 #### StockPlugins
 #### A plugin for Kerbal Space Program
-#### Copyright 2016 Malah
+#### Copyright 2017 Malah
 
 This is free and unencumbered software released into the public domain.
 
