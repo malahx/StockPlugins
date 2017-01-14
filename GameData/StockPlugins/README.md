@@ -49,10 +49,11 @@ You need to delete the StockPlugins folder in your KSP/GameData folder.
 #### Changelog
 
 v1.23 - 2017.01.14
-* Fix: Deleted all un-updated mods (KerbalGPS and RocketWatch),
-* Fix: Updated for DeadlyReentry 7.5,
+* Fix: Corrected the TechRequired spam at the loading of the VAB/SPH,
 * Fix: Corrected the Graphotron mod name,
+* Fix: Updated for DeadlyReentry 7.5,
 * Fix: Put the diskspace of kOS to 10 000,
+* Fix: Deleted all un-updated mods (KerbalGPS and RocketWatch),
 * Update ModuleManager to 2.7.5,
 * Update to KSP 1.2.2
 
