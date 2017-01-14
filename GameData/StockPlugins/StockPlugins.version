@@ -1,27 +1,27 @@
 {
 	"NAME"				: "StockPlugins",
 	"URL"				: "https://raw.githubusercontent.com/malahx/StockPlugins/StockPlugins.version",
-	"CHANGE_LOG_URL"	: "https://raw.githubusercontent.com/malahx/StockPlugins/master/README.md", 
-	"DOWNLOAD"			: "https://github.com/malahx/StockPlugins/releases",
+	"CHANGE_LOG_URL"		: "https://raw.githubusercontent.com/malahx/StockPlugins/master/README.md", 
+	"DOWNLOAD"			: "http://spacedock.info/mod/112/StockPlugins",
 	"VERSION": {
 		"MAJOR"			: 1,
 		"MINOR"			: 2,
-		"PATCH"			: 2,
+		"PATCH"			: 3,
 		"BUILD"			: 0
 	},
-    "KSP_VERSION": {
-        "MAJOR"			: 1,
-        "MINOR"			: 1,
-        "PATCH"			: 3
-    },
-    "KSP_VERSION_MIN": {
-        "MAJOR"			: 0,
-        "MINOR"			: 25,
-        "PATCH"			: 0
-    },
-    "KSP_VERSION_MAX": {
-        "MAJOR"			: 1,
-        "MINOR"			: 1,
-        "PATCH"			: 99
-    }
+	"KSP_VERSION": {
+		"MAJOR"			: 1,
+		"MINOR"			: 2,
+		"PATCH"			: 2
+	},
+	"KSP_VERSION_MIN": {
+		"MAJOR"			: 0,
+		"MINOR"			: 25,
+		"PATCH"			: 0
+ 	},
+	"KSP_VERSION_MAX": {
+		"MAJOR"			: 1,
+		"MINOR"			: 99,
+		"PATCH"			: 99
+	}
 }

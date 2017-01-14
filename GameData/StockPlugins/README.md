@@ -8,16 +8,15 @@ This is free and unencumbered software released into the public domain.
 #### What is it?
 
 StockPlugins is several ModuleManager config files which adds the possibility to use a plugin without the additional parts.
-StockPlugins support DeadlyReentry, Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protractor, RocketWatch and Telemachus.
+StockPlugins support DeadlyReentry, Graphotron, KerbalEngineer, kOS, MechJeb, Protractor and Telemachus.
 You don't need all these plugins for the use of StockPlugins.
 
-This config file requires ModuleManager v2.6.X.
+This config file requires ModuleManager v2.7.X.
 
 All parts from these plugins can't be accessed on the editor. If you don't use them on your savegame, you can delete the parts folder.
 
 You can delete/prune these folders:
 * KerbalEngineer: Kerbal Space Program/GameData/KerbalEngineer/Parts
-* KerbalGPS: Kerbal Space Program/GameData/KerbalGPS/Parts
 * MechJeb: Kerbal Space Program/GameData/MechJeb2/Parts
 * Protractor: Kerbal Space Program/GameData/Protractor/Parts
 * kOS: Kerbal Space Program/GameData/kOS/Parts
@@ -25,7 +24,6 @@ You can delete/prune these folders:
 * Telemachus: Kerbal Space Program/GameData/Telemachus/Parts
 * DeadlyReentry if you want to delete the DRE Parts: Kerbal Space Program/GameData/DeadlyReentry/Parts
 * DeadlyReentry if you want to delete the Stock Parts : Squad/Parts/Aero/HeatShield
-* RocketWatch: Kerbal Space Program/GameData/RocketWatch/Parts
 
 If you don't want to delete these folders, you can Prune them with AutoPruner.
 put StockPlugins.pnrl into the folder where AutoPruner is.
@@ -49,6 +47,14 @@ Unzip all files. Merge the new StockPlugins folder with the old folder which is 
 You need to delete the StockPlugins folder in your KSP/GameData folder.
 
 #### Changelog
+
+v1.23 - 2017.01.14
+* Fix: Deleted all un-updated mods (KerbalGPS and RocketWatch),
+* Fix: Updated for DeadlyReentry 7.5,
+* Fix: Corrected the Graphotron mod name,
+* Fix: Put the diskspace of kOS to 10 000,
+* Update ModuleManager to 2.7.5,
+* Update to KSP 1.2.2
 
 v1.22 - 2016.06.26
 * Update ModuleManager to 2.6.25,
@@ -101,7 +107,6 @@ v1.00 - 2014.12.09
 
 #### Troubleshooting?
 
-For KerbalGPS, you need to rename all your satellite of your constellation with GPS in his name.
 All functions from Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protractor and Telemachus will be set on the pods/probes.
 
 #### Thanks!
@@ -113,7 +118,7 @@ All functions from Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protract
 * to PakledHostage for the mod Figaro Global Navigation Satellite System,
 * to r4m0n, sarbian and all others who contributed to MechJeb,
 * to Addle and mrenigma03 for the mod Protractor,
-* to Rich for the mod Telemachus,
+* to Rich and tcannonfodder for the mod Telemachus,
 * to erendrake for the mod kOS,
 * to Starwaster, ialdabaoth, r4m0n and NathanKell for the mod DeadlyReentry,
 * to Felger for the script AutoPruner,
@@ -128,12 +133,12 @@ All functions from Graphotron, KerbalEngineer, KerbalGPS, kOS, MechJeb, Protract
 * https://github.com/malahx/StockPlugins
 * ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219
 * Engineer / KerbalEngineer: http://forum.kerbalspaceprogram.com/threads/18230
-* KerbalGPS: http://forum.kerbalspaceprogram.com/threads/24646
-* MechJeb: http://forum.kerbalspaceprogram.com/index.php?/topic/111978-1
+* MechJeb: http://forum.kerbalspaceprogram.com/index.php?/topic/154834-1
 * Protractor: http://forum.kerbalspaceprogram.com/threads/83173
-* Telemachus: http://forum.kerbalspaceprogram.com/threads/24594
+* Telemachus: http://forum.kerbalspaceprogram.com/threads/24594 and http://forum.kerbalspaceprogram.com/index.php?/topic/144482-1
 * kOS: http://forum.kerbalspaceprogram.com/threads/68089
 * Graphtron: http://forum.kerbalspaceprogram.com/threads/119337
 * DeadlyReentry: http://forum.kerbalspaceprogram.com/threads/54954
-* RocketWatch: http://forum.kerbalspaceprogram.com/threads/111882
 * AutoPruner: http://forum.kerbalspaceprogram.com/threads/101309
+* KerbalGPS: http://forum.kerbalspaceprogram.com/threads/24646
+* RocketWatch: http://forum.kerbalspaceprogram.com/threads/111882
